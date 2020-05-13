@@ -3,6 +3,8 @@
     <types>
         <members>CF_ChildFilesController</members>
         <members>CF_ChildFilesControllerTest</members>
+		<members>CF_ChildFilesFieldSetDynamicPicklist</members>
+		<members>CF_ChildFilesFieldSetDynamicPicklistTest</members>
         <members>CF_ChildFilesFilterDynamicPicklist</members>
         <members>CF_ChildFilesFilterDynamicPicklistTest</members>
         <members>CF_HttpCalloutMock</members>
@@ -31,7 +33,6 @@
         <members>Contract.View_Related_Files</members>
         <members>Lead.View_Related_Files</members>
         <members>Opportunity.View_Related_Files</members>
-        <members>Order.View_Related_Files</members>
         <name>WebLink</name>
     </types>
     <version>45.0</version>
